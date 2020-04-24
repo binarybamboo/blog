@@ -1,0 +1,12 @@
+asgiref                 3.2.7
+Django                  2.1.5
+django-cors-headers     3.2.1
+django-markdownx        3.0.1
+djangorestframework     3.11.0
+djangorestframework-jwt 1.11.0
+Pillow                  7.1.1
+pip                     19.0.3
+PyJWT                   1.7.1
+pytz                    2019.3
+setuptools              40.8.0
+sqlparse                0.3.1
