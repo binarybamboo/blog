@@ -36,7 +36,7 @@ function fetchCategory() { // 카테고리 검색
 export {
   fetchLogin,
   fetchSignup,
-  fetchRefresh,
+  fetchMemberinfo,
   fetchList,
   fetchBoard,
   fetchCategory,
