@@ -19,9 +19,10 @@ from rest_framework_jwt.views import obtain_jwt_token, verify_jwt_token, refresh
 
 urlpatterns = [
     path('admin/', admin.site.urls),
-    path('auth/', obtain_jwt_token),
-    path('auth/verify/', verify_jwt_token),
-    path('auth/refresh/', refresh_jwt_token),
-    path('users/', include('users.urls')),
-    path('admin/', admin.site.urls),
+    path('auth/',obtain_jwt_token),
+    path('auth/verify/',verify_jwt_token),
+    path('auth/refresh/',refresh_jwt_token),
+    path('users/',include('users.urls')),
+    path('board/',include('board.urls')),
+    path('markdownx/', include('markdownx.urls')),
 ]
