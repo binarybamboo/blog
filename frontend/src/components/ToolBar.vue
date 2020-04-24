@@ -29,7 +29,7 @@ export default {
   data(){
     return{
       images: {
-                sample: require('@/assets/logo.png')
+                sample: require('@/assets/img/logo.png')
             }
     }
   },
