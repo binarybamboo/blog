@@ -12,7 +12,7 @@
         <template v-slot:button-content>
           &#128071;<span class="sr-only">Search</span>
         </template>
-            <b-dropdown-item @click="FETCH_LOGOUT">logout</b-dropdown-item>
+            <b-dropdown-item @click="FETCH_LOGOUT">logout 하기</b-dropdown-item>
       </b-dropdown>
       
     </div>

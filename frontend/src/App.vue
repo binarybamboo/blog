@@ -1,5 +1,6 @@
 <template>
   <div id="app">
+    블로그
     <ToolBar></ToolBar>
     <transition name="routing-fade" mode="out-in">
       <router-view></router-view>
