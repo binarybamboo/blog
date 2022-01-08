@@ -1,6 +1,6 @@
 # Blog( API server )
  This repository is an example of a restapi server with SPA <br>
- Version control has not been done since 2020. If you are sensitive to security, use pip and npm to update the package.
+ - ### Version control has not been done since 2020. <br>If you are sensitive to security, update the packages in npm and pip.
 
 ## STACK
 - DRF(Django REST API) 
