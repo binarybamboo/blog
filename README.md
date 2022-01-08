@@ -1,5 +1,5 @@
 # Blog( API server )
- This repository is an example of a restapi server with SPA
+ This repository is an example of a restapi server with SPA <br>
  Version control has not been done since 2020. If you are sensitive to security, use pip and npm to update the package.
 
 ## STACK
